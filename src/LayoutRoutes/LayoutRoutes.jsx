@@ -13,6 +13,7 @@ function LayoutRoutes() {
     <Router>
       <Header />
       <Routes>
+      <Route path="/React-Restaurant-App-Project" element={<Home />} />
         <Route path="/" element={<Home />} />
         <Route path="/dishes" element={<Dishes />} />
         <Route path="/services" element={<Booking />} />
