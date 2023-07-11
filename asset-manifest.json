@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Restaurant-App-Project/static/css/main.40ef97a7.css",
+    "main.js": "/React-Restaurant-App-Project/static/js/main.a2362d8f.js",
+    "static/js/787.26da9b02.chunk.js": "/React-Restaurant-App-Project/static/js/787.26da9b02.chunk.js",
+    "static/media/welcome.png": "/React-Restaurant-App-Project/static/media/welcome.723e52d36732126fa795.png",
+    "static/media/ambience.jpg": "/React-Restaurant-App-Project/static/media/ambience.8b318e0aa2b30e0a977d.jpg",
+    "static/media/Food1.jpg": "/React-Restaurant-App-Project/static/media/Food1.f3072f11102878ef9b75.jpg",
+    "static/media/Food2.jpg": "/React-Restaurant-App-Project/static/media/Food2.5e76d1030d726ab5f598.jpg",
+    "static/media/Food3.jpeg": "/React-Restaurant-App-Project/static/media/Food3.5f4451ca789183e8050c.jpeg",
+    "static/media/logos.png": "/React-Restaurant-App-Project/static/media/logos.1316ef50d84b10ee5041.png",
+    "static/media/finalLogo.png": "/React-Restaurant-App-Project/static/media/finalLogo.bf38115bcfea18d55dc0.png",
+    "static/media/DeliveryImg.png": "/React-Restaurant-App-Project/static/media/DeliveryImg.0fbebbdbfc53d67bdd8f.png",
+    "index.html": "/React-Restaurant-App-Project/index.html",
+    "main.40ef97a7.css.map": "/React-Restaurant-App-Project/static/css/main.40ef97a7.css.map",
+    "main.a2362d8f.js.map": "/React-Restaurant-App-Project/static/js/main.a2362d8f.js.map",
+    "787.26da9b02.chunk.js.map": "/React-Restaurant-App-Project/static/js/787.26da9b02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40ef97a7.css",
+    "static/js/main.a2362d8f.js"
+  ]
+}
